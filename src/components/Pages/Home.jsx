@@ -85,7 +85,7 @@ export default function Home() {
       {/* Start Hero Section */}
       <Hero
         title="Expert Editing <br/> Powerful Stories <br/> Maximum Impact"
-        subtitle="We deliver best problem solving solution for our client and provide finest finishing product in present and upcoming future."
+        subtitle="We help businesses and creators bring their stories to life with high-end video editing, animation, and content strategy. By combining creativity with precision, we produce compelling visuals that engage audiences, maximize retention, and create a lasting impact."
         btnText="Get a Quote"
         btnLink="/contact"
         scrollDownId="#service"
